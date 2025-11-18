@@ -1,8 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <configuration>
-<<<<<<< HEAD
   <property>
     <name>fs.defaultFS</name>
-    <value>hdfs://namenode:8020</value>
+    <value>hdfs://namenode:9000</value>
   </property>
 <property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
 <property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
@@ -12,84 +12,4 @@
 <property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
 <property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
 <property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
 </configuration>
-=======
-    <property>
-        <name>fs.defaultFS</name>
-        <value>hdfs://hadoop-master:9000</value> </property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-<property><name>fs.defaultFS</name><value>hdfs://namenode:8020</value></property>
-</configuration>
->>>>>>> d601ace76300a0403cd91557adb0997a7da2546f
